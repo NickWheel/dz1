@@ -1,0 +1,16 @@
+# keys nenada videt'
+
+keys.txt
+
+
+# logs tozhe nenada videt'
+
+*.log
+
+/logs/*.txt
+
+??st.txt
+!test.txt
+
+index.*
+
